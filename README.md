@@ -85,16 +85,6 @@ These simulate external database calls and workflow tools.
 
 ---
 
-## 7. If I Had More Time
-- Add real API-based scholarship search  
-- Add Memory Bank for long-term history  
-- Add ranking system based on priority  
-- Integrate Google Search / MCP tools  
-- Deploy on Vertex AI or Cloud Run  
-- Create a web UI
-
----
-
 ## 8. Output Example
 {
 "profile": {...},
@@ -102,3 +92,4 @@ These simulate external database calls and workflow tools.
 "eligibility": {...},
 "plans": {...}
 }
+
